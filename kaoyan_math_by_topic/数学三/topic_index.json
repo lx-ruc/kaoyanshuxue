@@ -1,0 +1,2021 @@
+{
+  "高等数学/函数、极限、连续/无穷小量": [
+    {
+      "year": "2025",
+      "index": 1,
+      "question_id": 1207
+    },
+    {
+      "year": "2024",
+      "index": 11,
+      "question_id": 1216
+    },
+    {
+      "year": "2022",
+      "index": 1,
+      "question_id": 1273
+    },
+    {
+      "year": "2021",
+      "index": 1,
+      "question_id": 1295
+    },
+    {
+      "year": "2013",
+      "index": 1,
+      "question_id": 1871
+    }
+  ],
+  "高等数学/一元函数微分学/曲线的凹凸性、拐点及渐近线": [
+    {
+      "year": "2025",
+      "index": 2,
+      "question_id": 1205
+    },
+    {
+      "year": "2025",
+      "index": 11,
+      "question_id": 1194
+    },
+    {
+      "year": "2019",
+      "index": 10,
+      "question_id": 1328
+    },
+    {
+      "year": "2018",
+      "index": 2,
+      "question_id": 1362
+    },
+    {
+      "year": "2018",
+      "index": 9,
+      "question_id": 1343
+    },
+    {
+      "year": "2016",
+      "index": 1,
+      "question_id": 1410
+    },
+    {
+      "year": "2015",
+      "index": 2,
+      "question_id": 1918
+    },
+    {
+      "year": "2014",
+      "index": 2,
+      "question_id": 1895
+    },
+    {
+      "year": "2014",
+      "index": 4,
+      "question_id": 1897
+    },
+    {
+      "year": "2012",
+      "index": 1,
+      "question_id": 1848
+    },
+    {
+      "year": "2010",
+      "index": 12,
+      "question_id": 1813
+    }
+  ],
+  "高等数学/无穷级数/数项级数": [
+    {
+      "year": "2025",
+      "index": 3,
+      "question_id": 1206
+    },
+    {
+      "year": "2023",
+      "index": 4,
+      "question_id": 1245
+    },
+    {
+      "year": "2019",
+      "index": 4,
+      "question_id": 1335
+    },
+    {
+      "year": "2017",
+      "index": 4,
+      "question_id": 1381
+    },
+    {
+      "year": "2016",
+      "index": 4,
+      "question_id": 1404
+    },
+    {
+      "year": "2015",
+      "index": 4,
+      "question_id": 1920
+    },
+    {
+      "year": "2013",
+      "index": 4,
+      "question_id": 1874
+    },
+    {
+      "year": "2012",
+      "index": 4,
+      "question_id": 1851
+    },
+    {
+      "year": "2011",
+      "index": 3,
+      "question_id": 1827
+    }
+  ],
+  "高等数学/多元函数微积分学/交换积分次序与坐标系之间的转化": [
+    {
+      "year": "2025",
+      "index": 4,
+      "question_id": 1201
+    },
+    {
+      "year": "2024",
+      "index": 3,
+      "question_id": 1228
+    },
+    {
+      "year": "2015",
+      "index": 3,
+      "question_id": 1919
+    },
+    {
+      "year": "2014",
+      "index": 12,
+      "question_id": 1905
+    },
+    {
+      "year": "2012",
+      "index": 3,
+      "question_id": 1850
+    }
+  ],
+  "线性代数/线性方程组": [
+    {
+      "year": "2025",
+      "index": 5,
+      "question_id": 1202
+    },
+    {
+      "year": "2024",
+      "index": 21,
+      "question_id": 1218
+    },
+    {
+      "year": "2023",
+      "index": 15,
+      "question_id": 1233
+    },
+    {
+      "year": "2022",
+      "index": 6,
+      "question_id": 1270
+    },
+    {
+      "year": "2021",
+      "index": 6,
+      "question_id": 1292
+    },
+    {
+      "year": "2020",
+      "index": 5,
+      "question_id": 1313
+    },
+    {
+      "year": "2019",
+      "index": 13,
+      "question_id": 1326
+    },
+    {
+      "year": "2018",
+      "index": 21,
+      "question_id": 1352
+    },
+    {
+      "year": "2017",
+      "index": 20,
+      "question_id": 1376
+    },
+    {
+      "year": "2016",
+      "index": 20,
+      "question_id": 1399
+    },
+    {
+      "year": "2015",
+      "index": 5,
+      "question_id": 1921
+    },
+    {
+      "year": "2014",
+      "index": 20,
+      "question_id": 1913
+    },
+    {
+      "year": "2013",
+      "index": 20,
+      "question_id": 1890
+    },
+    {
+      "year": "2012",
+      "index": 20,
+      "question_id": 1867
+    },
+    {
+      "year": "2011",
+      "index": 6,
+      "question_id": 1830
+    },
+    {
+      "year": "2010",
+      "index": 20,
+      "question_id": 1821
+    }
+  ],
+  "线性代数/矩阵的特征值和特征向量/矩阵的相似与相似对角化": [
+    {
+      "year": "2025",
+      "index": 6,
+      "question_id": 1204
+    },
+    {
+      "year": "2023",
+      "index": 21,
+      "question_id": 1240
+    },
+    {
+      "year": "2022",
+      "index": 5,
+      "question_id": 1268
+    },
+    {
+      "year": "2021",
+      "index": 21,
+      "question_id": 1284
+    },
+    {
+      "year": "2020",
+      "index": 21,
+      "question_id": 1306
+    },
+    {
+      "year": "2019",
+      "index": 21,
+      "question_id": 1329
+    },
+    {
+      "year": "2018",
+      "index": 5,
+      "question_id": 1359
+    },
+    {
+      "year": "2017",
+      "index": 6,
+      "question_id": 1384
+    },
+    {
+      "year": "2016",
+      "index": 5,
+      "question_id": 1405
+    },
+    {
+      "year": "2016",
+      "index": 21,
+      "question_id": 1398
+    },
+    {
+      "year": "2015",
+      "index": 21,
+      "question_id": 1937
+    },
+    {
+      "year": "2014",
+      "index": 21,
+      "question_id": 1914
+    },
+    {
+      "year": "2013",
+      "index": 6,
+      "question_id": 1876
+    },
+    {
+      "year": "2010",
+      "index": 6,
+      "question_id": 1807
+    },
+    {
+      "year": "2009",
+      "index": 13,
+      "question_id": 1791
+    }
+  ],
+  "线性代数/二次型": [
+    {
+      "year": "2025",
+      "index": 7,
+      "question_id": 1203
+    },
+    {
+      "year": "2024",
+      "index": 5,
+      "question_id": 1224
+    },
+    {
+      "year": "2023",
+      "index": 6,
+      "question_id": 1248
+    },
+    {
+      "year": "2022",
+      "index": 21,
+      "question_id": 1262
+    },
+    {
+      "year": "2021",
+      "index": 5,
+      "question_id": 1290
+    },
+    {
+      "year": "2020",
+      "index": 20,
+      "question_id": 1307
+    },
+    {
+      "year": "2019",
+      "index": 6,
+      "question_id": 1338
+    },
+    {
+      "year": "2018",
+      "index": 20,
+      "question_id": 1353
+    },
+    {
+      "year": "2017",
+      "index": 21,
+      "question_id": 1375
+    },
+    {
+      "year": "2016",
+      "index": 6,
+      "question_id": 1407
+    },
+    {
+      "year": "2015",
+      "index": 6,
+      "question_id": 1922
+    },
+    {
+      "year": "2014",
+      "index": 13,
+      "question_id": 1906
+    },
+    {
+      "year": "2013",
+      "index": 21,
+      "question_id": 1891
+    },
+    {
+      "year": "2012",
+      "index": 21,
+      "question_id": 1868
+    },
+    {
+      "year": "2011",
+      "index": 13,
+      "question_id": 1837
+    },
+    {
+      "year": "2009",
+      "index": 21,
+      "question_id": 1799
+    }
+  ],
+  "概率论与数理统计/随机变量的数字特征/协方差与相关系数": [
+    {
+      "year": "2025",
+      "index": 8,
+      "question_id": 1186
+    },
+    {
+      "year": "2023",
+      "index": 16,
+      "question_id": 1235
+    },
+    {
+      "year": "2022",
+      "index": 8,
+      "question_id": 1252
+    },
+    {
+      "year": "2022",
+      "index": 10,
+      "question_id": 1261
+    },
+    {
+      "year": "2021",
+      "index": 16,
+      "question_id": 1279
+    },
+    {
+      "year": "2020",
+      "index": 22,
+      "question_id": 1308
+    },
+    {
+      "year": "2018",
+      "index": 22,
+      "question_id": 1354
+    },
+    {
+      "year": "2014",
+      "index": 23,
+      "question_id": 1916
+    },
+    {
+      "year": "2012",
+      "index": 22,
+      "question_id": 1869
+    },
+    {
+      "year": "2011",
+      "index": 22,
+      "question_id": 1846
+    },
+    {
+      "year": "2010",
+      "index": 23,
+      "question_id": 1824
+    }
+  ],
+  "概率论与数理统计/随机变量及其分布": [
+    {
+      "year": "2025",
+      "index": 9,
+      "question_id": 1187
+    },
+    {
+      "year": "2025",
+      "index": 10,
+      "question_id": 1195
+    },
+    {
+      "year": "2024",
+      "index": 9,
+      "question_id": 1209
+    },
+    {
+      "year": "2024",
+      "index": 16,
+      "question_id": 1213
+    },
+    {
+      "year": "2019",
+      "index": 8,
+      "question_id": 1319
+    },
+    {
+      "year": "2018",
+      "index": 7,
+      "question_id": 1360
+    },
+    {
+      "year": "2013",
+      "index": 7,
+      "question_id": 1877
+    },
+    {
+      "year": "2011",
+      "index": 7,
+      "question_id": 1831
+    },
+    {
+      "year": "2010",
+      "index": 7,
+      "question_id": 1808
+    },
+    {
+      "year": "2010",
+      "index": 8,
+      "question_id": 1809
+    }
+  ],
+  "高等数学/一元函数积分学/反常积分的计算": [
+    {
+      "year": "2025",
+      "index": 12,
+      "question_id": 1192
+    },
+    {
+      "year": "2024",
+      "index": 12,
+      "question_id": 1214
+    },
+    {
+      "year": "2013",
+      "index": 11,
+      "question_id": 1881
+    }
+  ],
+  "高等数学/常微分方程与差分方程/一阶非齐次线性微分方程": [
+    {
+      "year": "2025",
+      "index": 13,
+      "question_id": 1193
+    },
+    {
+      "year": "2022",
+      "index": 17,
+      "question_id": 1256
+    },
+    {
+      "year": "2019",
+      "index": 17,
+      "question_id": 1323
+    },
+    {
+      "year": "2014",
+      "index": 17,
+      "question_id": 1910
+    }
+  ],
+  "高等数学/多元函数微积分学/偏导数的概念与计算": [
+    {
+      "year": "2025",
+      "index": 14,
+      "question_id": 1188
+    },
+    {
+      "year": "2024",
+      "index": 18,
+      "question_id": 1221
+    },
+    {
+      "year": "2023",
+      "index": 1,
+      "question_id": 1251
+    },
+    {
+      "year": "2022",
+      "index": 3,
+      "question_id": 1272
+    },
+    {
+      "year": "2019",
+      "index": 16,
+      "question_id": 1324
+    },
+    {
+      "year": "2016",
+      "index": 2,
+      "question_id": 1408
+    },
+    {
+      "year": "2013",
+      "index": 10,
+      "question_id": 1880
+    },
+    {
+      "year": "2011",
+      "index": 16,
+      "question_id": 1840
+    },
+    {
+      "year": "2009",
+      "index": 10,
+      "question_id": 1788
+    }
+  ],
+  "线性代数/行列式": [
+    {
+      "year": "2025",
+      "index": 15,
+      "question_id": 1189
+    },
+    {
+      "year": "2024",
+      "index": 7,
+      "question_id": 1225
+    },
+    {
+      "year": "2021",
+      "index": 15,
+      "question_id": 1277
+    },
+    {
+      "year": "2020",
+      "index": 13,
+      "question_id": 1303
+    },
+    {
+      "year": "2016",
+      "index": 13,
+      "question_id": 1395
+    },
+    {
+      "year": "2014",
+      "index": 5,
+      "question_id": 1898
+    },
+    {
+      "year": "2013",
+      "index": 13,
+      "question_id": 1883
+    }
+  ],
+  "概率论与数理统计/随机事件和概率": [
+    {
+      "year": "2025",
+      "index": 16,
+      "question_id": 1191
+    },
+    {
+      "year": "2022",
+      "index": 16,
+      "question_id": 1257
+    },
+    {
+      "year": "2021",
+      "index": 8,
+      "question_id": 1274
+    },
+    {
+      "year": "2020",
+      "index": 7,
+      "question_id": 1314
+    },
+    {
+      "year": "2019",
+      "index": 7,
+      "question_id": 1337
+    },
+    {
+      "year": "2018",
+      "index": 14,
+      "question_id": 1344
+    },
+    {
+      "year": "2017",
+      "index": 7,
+      "question_id": 1383
+    },
+    {
+      "year": "2016",
+      "index": 7,
+      "question_id": 1406
+    },
+    {
+      "year": "2016",
+      "index": 14,
+      "question_id": 1390
+    },
+    {
+      "year": "2015",
+      "index": 7,
+      "question_id": 1923
+    },
+    {
+      "year": "2014",
+      "index": 7,
+      "question_id": 1900
+    },
+    {
+      "year": "2012",
+      "index": 14,
+      "question_id": 1861
+    },
+    {
+      "year": "2009",
+      "index": 7,
+      "question_id": 1785
+    }
+  ],
+  "高等数学/一元函数积分学/定积分的计算": [
+    {
+      "year": "2025",
+      "index": 17,
+      "question_id": 1190
+    },
+    {
+      "year": "2022",
+      "index": 12,
+      "question_id": 1258
+    },
+    {
+      "year": "2021",
+      "index": 12,
+      "question_id": 1280
+    },
+    {
+      "year": "2019",
+      "index": 11,
+      "question_id": 1327
+    },
+    {
+      "year": "2017",
+      "index": 9,
+      "question_id": 1366
+    },
+    {
+      "year": "2014",
+      "index": 11,
+      "question_id": 1904
+    }
+  ],
+  "高等数学/一元函数微分学/导数与微分的概念": [
+    {
+      "year": "2025",
+      "index": 18,
+      "question_id": 1199
+    },
+    {
+      "year": "2021",
+      "index": 2,
+      "question_id": 1293
+    },
+    {
+      "year": "2018",
+      "index": 1,
+      "question_id": 1364
+    },
+    {
+      "year": "2018",
+      "index": 12,
+      "question_id": 1348
+    },
+    {
+      "year": "2015",
+      "index": 19,
+      "question_id": 1935
+    },
+    {
+      "year": "2011",
+      "index": 2,
+      "question_id": 1826
+    }
+  ],
+  "高等数学/多元函数微积分学/二重积分的计算": [
+    {
+      "year": "2025",
+      "index": 19,
+      "question_id": 1200
+    },
+    {
+      "year": "2024",
+      "index": 17,
+      "question_id": 1212
+    },
+    {
+      "year": "2023",
+      "index": 19,
+      "question_id": 1244
+    },
+    {
+      "year": "2022",
+      "index": 14,
+      "question_id": 1254
+    },
+    {
+      "year": "2022",
+      "index": 19,
+      "question_id": 1266
+    },
+    {
+      "year": "2021",
+      "index": 19,
+      "question_id": 1288
+    },
+    {
+      "year": "2020",
+      "index": 18,
+      "question_id": 1310
+    },
+    {
+      "year": "2018",
+      "index": 16,
+      "question_id": 1347
+    },
+    {
+      "year": "2017",
+      "index": 16,
+      "question_id": 1370
+    },
+    {
+      "year": "2016",
+      "index": 12,
+      "question_id": 1394
+    },
+    {
+      "year": "2015",
+      "index": 16,
+      "question_id": 1932
+    },
+    {
+      "year": "2014",
+      "index": 16,
+      "question_id": 1909
+    },
+    {
+      "year": "2013",
+      "index": 17,
+      "question_id": 1887
+    },
+    {
+      "year": "2012",
+      "index": 16,
+      "question_id": 1863
+    },
+    {
+      "year": "2010",
+      "index": 16,
+      "question_id": 1817
+    },
+    {
+      "year": "2009",
+      "index": 17,
+      "question_id": 1795
+    }
+  ],
+  "高等数学/一元函数微分学/微分中值定理": [
+    {
+      "year": "2025",
+      "index": 20,
+      "question_id": 1197
+    },
+    {
+      "year": "2019",
+      "index": 19,
+      "question_id": 1334
+    },
+    {
+      "year": "2013",
+      "index": 19,
+      "question_id": 1889
+    },
+    {
+      "year": "2010",
+      "index": 19,
+      "question_id": 1820
+    },
+    {
+      "year": "2009",
+      "index": 18,
+      "question_id": 1796
+    }
+  ],
+  "线性代数/向量/向量组之间的线性表示": [
+    {
+      "year": "2025",
+      "index": 21,
+      "question_id": 1196
+    },
+    {
+      "year": "2023",
+      "index": 7,
+      "question_id": 1247
+    },
+    {
+      "year": "2022",
+      "index": 7,
+      "question_id": 1269
+    },
+    {
+      "year": "2019",
+      "index": 20,
+      "question_id": 1330
+    },
+    {
+      "year": "2013",
+      "index": 5,
+      "question_id": 1875
+    },
+    {
+      "year": "2011",
+      "index": 20,
+      "question_id": 1844
+    },
+    {
+      "year": "2010",
+      "index": 5,
+      "question_id": 1806
+    }
+  ],
+  "概率论与数理统计/多维随机变量及其分布/边缘分布与条件分布": [
+    {
+      "year": "2025",
+      "index": 22,
+      "question_id": 1198
+    },
+    {
+      "year": "2013",
+      "index": 22,
+      "question_id": 1892
+    },
+    {
+      "year": "2011",
+      "index": 23,
+      "question_id": 1847
+    },
+    {
+      "year": "2010",
+      "index": 22,
+      "question_id": 1823
+    },
+    {
+      "year": "2009",
+      "index": 22,
+      "question_id": 1800
+    }
+  ],
+  "高等数学/函数、极限、连续/函数的连续性与间断点的类型": [
+    {
+      "year": "2024",
+      "index": 1,
+      "question_id": 1229
+    },
+    {
+      "year": "2020",
+      "index": 2,
+      "question_id": 1316
+    },
+    {
+      "year": "2017",
+      "index": 1,
+      "question_id": 1387
+    },
+    {
+      "year": "2013",
+      "index": 2,
+      "question_id": 1872
+    },
+    {
+      "year": "2009",
+      "index": 1,
+      "question_id": 1779
+    }
+  ],
+  "高等数学/一元函数积分学/变限积分": [
+    {
+      "year": "2024",
+      "index": 2,
+      "question_id": 1227
+    },
+    {
+      "year": "2020",
+      "index": 3,
+      "question_id": 1317
+    },
+    {
+      "year": "2016",
+      "index": 18,
+      "question_id": 1402
+    },
+    {
+      "year": "2015",
+      "index": 10,
+      "question_id": 1926
+    },
+    {
+      "year": "2010",
+      "index": 9,
+      "question_id": 1810
+    },
+    {
+      "year": "2009",
+      "index": 3,
+      "question_id": 1781
+    },
+    {
+      "year": "2009",
+      "index": 4,
+      "question_id": 1782
+    }
+  ],
+  "高等数学/无穷级数/幂级数": [
+    {
+      "year": "2024",
+      "index": 4,
+      "question_id": 1223
+    },
+    {
+      "year": "2023",
+      "index": 13,
+      "question_id": 1237
+    },
+    {
+      "year": "2022",
+      "index": 20,
+      "question_id": 1263
+    },
+    {
+      "year": "2021",
+      "index": 20,
+      "question_id": 1285
+    },
+    {
+      "year": "2020",
+      "index": 4,
+      "question_id": 1312
+    },
+    {
+      "year": "2018",
+      "index": 18,
+      "question_id": 1356
+    },
+    {
+      "year": "2017",
+      "index": 19,
+      "question_id": 1380
+    },
+    {
+      "year": "2016",
+      "index": 19,
+      "question_id": 1403
+    },
+    {
+      "year": "2014",
+      "index": 18,
+      "question_id": 1911
+    },
+    {
+      "year": "2009",
+      "index": 11,
+      "question_id": 1789
+    }
+  ],
+  "线性代数/矩阵/矩阵的运算与变换": [
+    {
+      "year": "2024",
+      "index": 6,
+      "question_id": 1226
+    },
+    {
+      "year": "2022",
+      "index": 15,
+      "question_id": 1255
+    },
+    {
+      "year": "2021",
+      "index": 7,
+      "question_id": 1291
+    },
+    {
+      "year": "2015",
+      "index": 20,
+      "question_id": 1936
+    },
+    {
+      "year": "2012",
+      "index": 6,
+      "question_id": 1853
+    },
+    {
+      "year": "2011",
+      "index": 5,
+      "question_id": 1829
+    },
+    {
+      "year": "2010",
+      "index": 13,
+      "question_id": 1814
+    },
+    {
+      "year": "2009",
+      "index": 6,
+      "question_id": 1784
+    }
+  ],
+  "概率论与数理统计/随机变量的数字特征/数学期望与方差": [
+    {
+      "year": "2024",
+      "index": 8,
+      "question_id": 1208
+    },
+    {
+      "year": "2024",
+      "index": 22,
+      "question_id": 1220
+    },
+    {
+      "year": "2023",
+      "index": 8,
+      "question_id": 1230
+    },
+    {
+      "year": "2023",
+      "index": 22,
+      "question_id": 1242
+    },
+    {
+      "year": "2020",
+      "index": 14,
+      "question_id": 1298
+    },
+    {
+      "year": "2019",
+      "index": 14,
+      "question_id": 1321
+    },
+    {
+      "year": "2017",
+      "index": 14,
+      "question_id": 1367
+    },
+    {
+      "year": "2017",
+      "index": 22,
+      "question_id": 1377
+    },
+    {
+      "year": "2016",
+      "index": 8,
+      "question_id": 1388
+    },
+    {
+      "year": "2016",
+      "index": 23,
+      "question_id": 1401
+    },
+    {
+      "year": "2015",
+      "index": 22,
+      "question_id": 1938
+    },
+    {
+      "year": "2014",
+      "index": 22,
+      "question_id": 1915
+    },
+    {
+      "year": "2013",
+      "index": 14,
+      "question_id": 1884
+    },
+    {
+      "year": "2012",
+      "index": 23,
+      "question_id": 1870
+    },
+    {
+      "year": "2011",
+      "index": 4,
+      "question_id": 1828
+    }
+  ],
+  "概率论与数理统计/多维随机变量及其分布/二维随机变量及其分布": [
+    {
+      "year": "2024",
+      "index": 10,
+      "question_id": 1217
+    },
+    {
+      "year": "2020",
+      "index": 8,
+      "question_id": 1296
+    },
+    {
+      "year": "2019",
+      "index": 22,
+      "question_id": 1331
+    },
+    {
+      "year": "2016",
+      "index": 22,
+      "question_id": 1400
+    },
+    {
+      "year": "2015",
+      "index": 14,
+      "question_id": 1930
+    },
+    {
+      "year": "2013",
+      "index": 8,
+      "question_id": 1878
+    },
+    {
+      "year": "2012",
+      "index": 7,
+      "question_id": 1854
+    },
+    {
+      "year": "2009",
+      "index": 8,
+      "question_id": 1786
+    },
+    {
+      "year": "2009",
+      "index": 23,
+      "question_id": 1801
+    }
+  ],
+  "高等数学/多元函数微积分学/多元函数微分学的几何应用": [
+    {
+      "year": "2024",
+      "index": 13,
+      "question_id": 1215
+    },
+    {
+      "year": "2021",
+      "index": 18,
+      "question_id": 1287
+    },
+    {
+      "year": "2020",
+      "index": 16,
+      "question_id": 1301
+    },
+    {
+      "year": "2018",
+      "index": 17,
+      "question_id": 1346
+    },
+    {
+      "year": "2017",
+      "index": 2,
+      "question_id": 1385
+    },
+    {
+      "year": "2012",
+      "index": 17,
+      "question_id": 1864
+    },
+    {
+      "year": "2010",
+      "index": 17,
+      "question_id": 1818
+    },
+    {
+      "year": "2009",
+      "index": 15,
+      "question_id": 1793
+    }
+  ],
+  "高等数学/一元函数微分学/微分学在经济学中的应用": [
+    {
+      "year": "2024",
+      "index": 14,
+      "question_id": 1210
+    },
+    {
+      "year": "2022",
+      "index": 18,
+      "question_id": 1265
+    },
+    {
+      "year": "2020",
+      "index": 11,
+      "question_id": 1304
+    },
+    {
+      "year": "2019",
+      "index": 12,
+      "question_id": 1325
+    },
+    {
+      "year": "2018",
+      "index": 4,
+      "question_id": 1358
+    },
+    {
+      "year": "2017",
+      "index": 11,
+      "question_id": 1373
+    },
+    {
+      "year": "2016",
+      "index": 16,
+      "question_id": 1393
+    },
+    {
+      "year": "2015",
+      "index": 17,
+      "question_id": 1933
+    },
+    {
+      "year": "2014",
+      "index": 9,
+      "question_id": 1902
+    },
+    {
+      "year": "2013",
+      "index": 18,
+      "question_id": 1888
+    },
+    {
+      "year": "2010",
+      "index": 11,
+      "question_id": 1812
+    },
+    {
+      "year": "2009",
+      "index": 12,
+      "question_id": 1790
+    }
+  ],
+  "线性代数/矩阵的特征值和特征向量/特征值与特征向量": [
+    {
+      "year": "2024",
+      "index": 15,
+      "question_id": 1211
+    },
+    {
+      "year": "2020",
+      "index": 6,
+      "question_id": 1315
+    },
+    {
+      "year": "2018",
+      "index": 13,
+      "question_id": 1349
+    },
+    {
+      "year": "2015",
+      "index": 13,
+      "question_id": 1929
+    },
+    {
+      "year": "2011",
+      "index": 21,
+      "question_id": 1845
+    },
+    {
+      "year": "2010",
+      "index": 21,
+      "question_id": 1822
+    }
+  ],
+  "高等数学/一元函数积分学/定积分的应用": [
+    {
+      "year": "2024",
+      "index": 19,
+      "question_id": 1222
+    },
+    {
+      "year": "2023",
+      "index": 18,
+      "question_id": 1243
+    },
+    {
+      "year": "2021",
+      "index": 13,
+      "question_id": 1281
+    },
+    {
+      "year": "2020",
+      "index": 12,
+      "question_id": 1302
+    },
+    {
+      "year": "2019",
+      "index": 18,
+      "question_id": 1333
+    },
+    {
+      "year": "2013",
+      "index": 16,
+      "question_id": 1886
+    },
+    {
+      "year": "2011",
+      "index": 12,
+      "question_id": 1836
+    },
+    {
+      "year": "2010",
+      "index": 10,
+      "question_id": 1811
+    },
+    {
+      "year": "2009",
+      "index": 19,
+      "question_id": 1797
+    }
+  ],
+  "高等数学/一元函数微分学/泰勒公式": [
+    {
+      "year": "2024",
+      "index": 20,
+      "question_id": 1219
+    },
+    {
+      "year": "2023",
+      "index": 20,
+      "question_id": 1241
+    }
+  ],
+  "高等数学/一元函数积分学/不定积分的计算": [
+    {
+      "year": "2023",
+      "index": 2,
+      "question_id": 1249
+    },
+    {
+      "year": "2018",
+      "index": 10,
+      "question_id": 1351
+    },
+    {
+      "year": "2011",
+      "index": 17,
+      "question_id": 1841
+    },
+    {
+      "year": "2009",
+      "index": 16,
+      "question_id": 1794
+    }
+  ],
+  "高等数学/常微分方程与差分方程/常系数齐次线性微分方程": [
+    {
+      "year": "2023",
+      "index": 3,
+      "question_id": 1250
+    },
+    {
+      "year": "2020",
+      "index": 17,
+      "question_id": 1300
+    },
+    {
+      "year": "2015",
+      "index": 12,
+      "question_id": 1928
+    },
+    {
+      "year": "2013",
+      "index": 12,
+      "question_id": 1882
+    },
+    {
+      "year": "2012",
+      "index": 19,
+      "question_id": 1866
+    }
+  ],
+  "线性代数/矩阵/伴随矩阵与可逆矩阵": [
+    {
+      "year": "2023",
+      "index": 5,
+      "question_id": 1246
+    },
+    {
+      "year": "2019",
+      "index": 5,
+      "question_id": 1336
+    },
+    {
+      "year": "2017",
+      "index": 5,
+      "question_id": 1382
+    },
+    {
+      "year": "2012",
+      "index": 13,
+      "question_id": 1860
+    },
+    {
+      "year": "2009",
+      "index": 5,
+      "question_id": 1783
+    }
+  ],
+  "概率论与数理统计/数理统计的基本概念": [
+    {
+      "year": "2023",
+      "index": 9,
+      "question_id": 1231
+    },
+    {
+      "year": "2023",
+      "index": 10,
+      "question_id": 1239
+    },
+    {
+      "year": "2021",
+      "index": 9,
+      "question_id": 1275
+    },
+    {
+      "year": "2018",
+      "index": 8,
+      "question_id": 1342
+    },
+    {
+      "year": "2017",
+      "index": 8,
+      "question_id": 1365
+    },
+    {
+      "year": "2015",
+      "index": 8,
+      "question_id": 1924
+    },
+    {
+      "year": "2014",
+      "index": 8,
+      "question_id": 1901
+    },
+    {
+      "year": "2012",
+      "index": 8,
+      "question_id": 1855
+    },
+    {
+      "year": "2011",
+      "index": 8,
+      "question_id": 1832
+    },
+    {
+      "year": "2010",
+      "index": 14,
+      "question_id": 1815
+    },
+    {
+      "year": "2009",
+      "index": 14,
+      "question_id": 1792
+    }
+  ],
+  "高等数学/函数、极限、连续/函数极限的计算": [
+    {
+      "year": "2023",
+      "index": 11,
+      "question_id": 1238
+    },
+    {
+      "year": "2022",
+      "index": 11,
+      "question_id": 1260
+    },
+    {
+      "year": "2020",
+      "index": 1,
+      "question_id": 1318
+    },
+    {
+      "year": "2017",
+      "index": 15,
+      "question_id": 1368
+    },
+    {
+      "year": "2016",
+      "index": 9,
+      "question_id": 1389
+    },
+    {
+      "year": "2016",
+      "index": 15,
+      "question_id": 1391
+    },
+    {
+      "year": "2015",
+      "index": 9,
+      "question_id": 1925
+    },
+    {
+      "year": "2014",
+      "index": 15,
+      "question_id": 1908
+    },
+    {
+      "year": "2012",
+      "index": 9,
+      "question_id": 1856
+    },
+    {
+      "year": "2012",
+      "index": 15,
+      "question_id": 1862
+    },
+    {
+      "year": "2011",
+      "index": 9,
+      "question_id": 1833
+    },
+    {
+      "year": "2011",
+      "index": 15,
+      "question_id": 1839
+    },
+    {
+      "year": "2010",
+      "index": 15,
+      "question_id": 1816
+    },
+    {
+      "year": "2009",
+      "index": 9,
+      "question_id": 1787
+    }
+  ],
+  "高等数学/多元函数微积分学/全微分的概念与计算": [
+    {
+      "year": "2023",
+      "index": 12,
+      "question_id": 1236
+    },
+    {
+      "year": "2021",
+      "index": 4,
+      "question_id": 1289
+    },
+    {
+      "year": "2020",
+      "index": 9,
+      "question_id": 1297
+    },
+    {
+      "year": "2017",
+      "index": 12,
+      "question_id": 1371
+    },
+    {
+      "year": "2016",
+      "index": 11,
+      "question_id": 1396
+    },
+    {
+      "year": "2015",
+      "index": 11,
+      "question_id": 1927
+    },
+    {
+      "year": "2012",
+      "index": 11,
+      "question_id": 1858
+    },
+    {
+      "year": "2011",
+      "index": 10,
+      "question_id": 1834
+    }
+  ],
+  "高等数学/常微分方程与差分方程/微分方程的应用": [
+    {
+      "year": "2023",
+      "index": 14,
+      "question_id": 1232
+    },
+    {
+      "year": "2015",
+      "index": 18,
+      "question_id": 1934
+    }
+  ],
+  "高等数学/一元函数微分学/函数的单调性、极值与最值": [
+    {
+      "year": "2023",
+      "index": 17,
+      "question_id": 1234
+    },
+    {
+      "year": "2019",
+      "index": 15,
+      "question_id": 1322
+    },
+    {
+      "year": "2017",
+      "index": 3,
+      "question_id": 1386
+    },
+    {
+      "year": "2016",
+      "index": 17,
+      "question_id": 1392
+    },
+    {
+      "year": "2010",
+      "index": 3,
+      "question_id": 1804
+    }
+  ],
+  "高等数学/函数、极限、连续/数列极限的概念与性质": [
+    {
+      "year": "2022",
+      "index": 2,
+      "question_id": 1271
+    },
+    {
+      "year": "2015",
+      "index": 1,
+      "question_id": 1917
+    },
+    {
+      "year": "2014",
+      "index": 1,
+      "question_id": 1894
+    }
+  ],
+  "高等数学/一元函数积分学/定积分的概念与性质": [
+    {
+      "year": "2022",
+      "index": 4,
+      "question_id": 1267
+    },
+    {
+      "year": "2018",
+      "index": 3,
+      "question_id": 1363
+    },
+    {
+      "year": "2017",
+      "index": 17,
+      "question_id": 1369
+    },
+    {
+      "year": "2016",
+      "index": 10,
+      "question_id": 1397
+    },
+    {
+      "year": "2014",
+      "index": 19,
+      "question_id": 1912
+    },
+    {
+      "year": "2010",
+      "index": 18,
+      "question_id": 1819
+    }
+  ],
+  "概率论与数理统计/大数定律和中心极限定理": [
+    {
+      "year": "2022",
+      "index": 9,
+      "question_id": 1253
+    }
+  ],
+  "高等数学/一元函数微分学/导数与微分的计算": [
+    {
+      "year": "2022",
+      "index": 13,
+      "question_id": 1259
+    },
+    {
+      "year": "2021",
+      "index": 11,
+      "question_id": 1282
+    },
+    {
+      "year": "2012",
+      "index": 2,
+      "question_id": 1849
+    },
+    {
+      "year": "2012",
+      "index": 10,
+      "question_id": 1857
+    }
+  ],
+  "概率论与数理统计/参数估计": [
+    {
+      "year": "2022",
+      "index": 22,
+      "question_id": 1264
+    },
+    {
+      "year": "2021",
+      "index": 10,
+      "question_id": 1283
+    },
+    {
+      "year": "2020",
+      "index": 23,
+      "question_id": 1309
+    },
+    {
+      "year": "2019",
+      "index": 23,
+      "question_id": 1332
+    },
+    {
+      "year": "2018",
+      "index": 23,
+      "question_id": 1355
+    },
+    {
+      "year": "2017",
+      "index": 23,
+      "question_id": 1378
+    },
+    {
+      "year": "2015",
+      "index": 23,
+      "question_id": 1939
+    }
+  ],
+  "高等数学/一元函数微分学/方程根的存在性与个数": [
+    {
+      "year": "2021",
+      "index": 3,
+      "question_id": 1294
+    },
+    {
+      "year": "2019",
+      "index": 2,
+      "question_id": 1339
+    },
+    {
+      "year": "2017",
+      "index": 18,
+      "question_id": 1379
+    },
+    {
+      "year": "2011",
+      "index": 18,
+      "question_id": 1842
+    }
+  ],
+  "高等数学/常微分方程与差分方程/差分方程": [
+    {
+      "year": "2021",
+      "index": 14,
+      "question_id": 1276
+    },
+    {
+      "year": "2018",
+      "index": 11,
+      "question_id": 1350
+    },
+    {
+      "year": "2017",
+      "index": 10,
+      "question_id": 1374
+    }
+  ],
+  "高等数学/函数、极限、连续/确定极限中的参数": [
+    {
+      "year": "2021",
+      "index": 17,
+      "question_id": 1278
+    },
+    {
+      "year": "2020",
+      "index": 15,
+      "question_id": 1299
+    },
+    {
+      "year": "2019",
+      "index": 1,
+      "question_id": 1341
+    },
+    {
+      "year": "2018",
+      "index": 15,
+      "question_id": 1345
+    },
+    {
+      "year": "2015",
+      "index": 15,
+      "question_id": 1931
+    },
+    {
+      "year": "2014",
+      "index": 3,
+      "question_id": 1896
+    },
+    {
+      "year": "2013",
+      "index": 15,
+      "question_id": 1885
+    },
+    {
+      "year": "2011",
+      "index": 1,
+      "question_id": 1825
+    },
+    {
+      "year": "2010",
+      "index": 1,
+      "question_id": 1802
+    },
+    {
+      "year": "2009",
+      "index": 2,
+      "question_id": 1780
+    }
+  ],
+  "高等数学/一元函数微分学/导数的几何意义": [
+    {
+      "year": "2020",
+      "index": 10,
+      "question_id": 1305
+    },
+    {
+      "year": "2013",
+      "index": 9,
+      "question_id": 1879
+    },
+    {
+      "year": "2011",
+      "index": 11,
+      "question_id": 1835
+    }
+  ],
+  "高等数学/常微分方程与差分方程/二阶常系数非齐次线性微分方程": [
+    {
+      "year": "2019",
+      "index": 3,
+      "question_id": 1340
+    }
+  ],
+  "高等数学/函数、极限、连续/数列极限的计算": [
+    {
+      "year": "2019",
+      "index": 9,
+      "question_id": 1320
+    }
+  ],
+  "线性代数/矩阵/矩阵的秩": [
+    {
+      "year": "2018",
+      "index": 6,
+      "question_id": 1361
+    },
+    {
+      "year": "2017",
+      "index": 13,
+      "question_id": 1372
+    }
+  ],
+  "高等数学/函数、极限、连续/数列敛散性的判定": [
+    {
+      "year": "2018",
+      "index": 19,
+      "question_id": 1357
+    }
+  ],
+  "高等数学/多元函数微积分学/二重积分的概念与性质": [
+    {
+      "year": "2016",
+      "index": 3,
+      "question_id": 1409
+    },
+    {
+      "year": "2013",
+      "index": 3,
+      "question_id": 1873
+    }
+  ],
+  "线性代数/向量/向量组的线性相关性": [
+    {
+      "year": "2014",
+      "index": 6,
+      "question_id": 1899
+    },
+    {
+      "year": "2012",
+      "index": 5,
+      "question_id": 1852
+    },
+    {
+      "year": "2009",
+      "index": 20,
+      "question_id": 1798
+    }
+  ],
+  "高等数学/多元函数微积分学/二重积分的综合与应用": [
+    {
+      "year": "2014",
+      "index": 10,
+      "question_id": 1903
+    },
+    {
+      "year": "2012",
+      "index": 12,
+      "question_id": 1859
+    },
+    {
+      "year": "2011",
+      "index": 19,
+      "question_id": 1843
+    }
+  ],
+  "高等数学/一元函数微分学/不等式": [
+    {
+      "year": "2012",
+      "index": 18,
+      "question_id": 1865
+    },
+    {
+      "year": "2010",
+      "index": 4,
+      "question_id": 1805
+    }
+  ],
+  "高等数学/常微分方程与差分方程/线性微分方程的解的结构": [
+    {
+      "year": "2010",
+      "index": 2,
+      "question_id": 1803
+    }
+  ]
+}
