@@ -1,0 +1,7 @@
+#### 4. 拉普拉斯展开式
+
+<equation>\begin{array}{l} \left| \begin{array}{c c c c c c c c} a _ {1 1} & a _ {1 2} & \dots & a _ {1 k} & & & & \\ a _ {2 1} & a _ {2 2} & \dots & a _ {2 k} & \boldsymbol {O} _ {k \times l} & & \\ \vdots & \vdots & & \vdots & & & & \\ a _ {k 1} & a _ {k 2} & \dots & a _ {b k} & & & & \\ c _ {1 1} & c _ {1 2} & \dots & c _ {1 k} & b _ {1 1} & b _ {1 2} & \dots & b _ {1 l} \\ c _ {2 1} & c _ {2 2} & \dots & c _ {2 k} & b _ {2 1} & b _ {2 2} & \dots & b _ {2 l} \\ \vdots & \vdots & & \vdots & \vdots & \vdots & & \vdots \\ c _ {i 1} & c _ {i 2} & \dots & c _ {i k} & b _ {i 1} & b _ {i 2} & \dots & b _ {i l} \end{array} \right| \\ = \left| \begin{array}{c c c c c c c c} a _ {1 1} & a _ {1 2} & \dots & a _ {1 k} & \left| \begin{array}{c c c c c c} b _ {1 1} & b _ {1 2} & \dots & b _ {1 l} \\ b _ {2 1} & b _ {2 2} & \dots & b _ {2 l} \\ \vdots & \vdots & & \vdots \\ b _ {i 1} & b _ {i 2} & \dots & b _ {i l} \end{array} \right| \\ c _ {1 1} c _ {1 2} \dots c _ {1 k} b _ {1 1} b _ {1 2} \dots b _ {1 l} \\ c _ {2 1} c _ {2 2} \dots c _ {2 k} b _ {2 1} b _ {2 2} \dots b _ {2 l} \\ \vdots \vdots \vdots \vdots \vdots \vdots \vdots \vdots \vdots \\ c _ {i 1} c _ {i 2} \dots c _ {i k} b _ {i 1} b _ {i 2} \dots b _ {i l} \\ a _ {1 1} a _ {1 2} \dots a _ {1 k} \\ a _ {2 1} a _ {2 2} \dots a _ {2 k} \\ \vdots \vdots \vdots \vdots \\ a _ {k 1} a _ {k 2} \dots a _ {b k} \end{array} \right| \\ \end{array}</equation>
+
+---
+
+
